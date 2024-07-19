@@ -6,7 +6,7 @@ TeklifimGelsin Mobile Application Task
 -Search Screen
 -Result/Listing Screen
 -Detail Screen
-![Screenshot_1721354471](https://github.com/user-attachments/assets/db3bac7f-89a4-42d0-94cc-60007a6cbe40)
+![Screenshot_1721354969](https://github.com/user-attachments/assets/1d598cc1-3a44-4efe-abee-a92686dd2742)
 
 ![Screenshot_1721354549](https://github.com/user-attachments/assets/d34499c0-4dd4-4b00-bdb0-c69e2ccb68ee)
 ![Screenshot_1721354589](https://github.com/user-attachments/assets/ba3d3915-a24d-4f35-83ed-a4d9d951a2fd)
