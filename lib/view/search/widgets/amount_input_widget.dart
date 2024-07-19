@@ -3,6 +3,8 @@ import 'package:provider/provider.dart';
 import 'package:teklifim_gelsin_task/view_model/search_view_model.dart';
 
 class AmountInput extends StatelessWidget {
+  const AmountInput({super.key});
+
   @override
   Widget build(BuildContext context) {
     final searchViewModel =

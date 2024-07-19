@@ -1,3 +1,4 @@
+import 'package:flutter/foundation.dart';
 import 'package:teklifim_gelsin_task/data/network/BaseApiService.dart';
 import 'package:teklifim_gelsin_task/data/network/NetworkApiService.dart';
 import 'package:teklifim_gelsin_task/model/loan_model.dart';
@@ -17,7 +18,9 @@ class LoanOffersRepository {
         throw Exception('Unexpected response type');
       }
     } catch (e) {
-      print(e);
+      if (kDebugMode) {
+        print(e);
+      }
       rethrow;
     }
   }

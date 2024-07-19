@@ -1,5 +1,4 @@
 import 'package:flutter/foundation.dart';
-import 'package:flutter/material.dart';
 import 'package:teklifim_gelsin_task/model/loan_model.dart';
 import 'package:teklifim_gelsin_task/repository/loan_offers_api/loan_offers_repository.dart';
 

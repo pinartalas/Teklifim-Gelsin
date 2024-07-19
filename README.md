@@ -1,8 +1,11 @@
-# teklifim_gelsin_task
+# Teklifim Gelsin APP
 
-A new Flutter project.
+TeklifimGelsin Mobile Application Task
 
-## Getting Started
+## Project Content
+-Search Screen
+-Result/Listing Screen
+-Detail Screen
 
 This project is a starting point for a Flutter application.
 

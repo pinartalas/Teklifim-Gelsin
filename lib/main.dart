@@ -19,11 +19,11 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider(create: (_) => SearchViewModel()),
       ],
       child: MaterialApp(
+        debugShowCheckedModeBanner: false,
         title: 'Teklifim Gelsin',
         theme: ThemeData(
           scaffoldBackgroundColor: AppColors.mainColor,
         ),
-        debugShowCheckedModeBanner: false,
         initialRoute: RoutesName.search,
         onGenerateRoute: Routes.generateRoute,
       ),

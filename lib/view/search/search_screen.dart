@@ -52,7 +52,7 @@ class _SearchScreenState extends State<SearchScreen> {
                 child: Column(
                   mainAxisSize: MainAxisSize.min,
                   children: [
-                    AmountInput(),
+                    const AmountInput(),
                     const SizedBox(height: 32.0),
                     MaturityInput(),
                     const SizedBox(height: 38.0),

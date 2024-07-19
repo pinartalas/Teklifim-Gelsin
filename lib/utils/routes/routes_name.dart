@@ -1,7 +1,4 @@
 class RoutesName {
-  //splash
-  static const String splash = 'splash_screen';
-
   //search form
   static const String search = 'search_screen';
 
